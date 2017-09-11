@@ -4,7 +4,7 @@
 
 This is a design for an interference-filter-based external cavity diode laser. It is based mostly on commercial off-the-shelf parts. A separate parts list and drawings can be found in this repository.
 
-[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Assembly instructions
 
