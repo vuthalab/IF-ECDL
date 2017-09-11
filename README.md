@@ -19,7 +19,5 @@ This is a design for an interference-filter-based external cavity diode laser. I
 ![Retroreflector](photos/cateye_retroreflector.png)
 
 4. (Optional) Put pads of sorbothane underneath the breadboard. Add foam padding around the box for acoustic isolation.
-
-![Assembled laser](images/assembled_laser.jpg)
-
+![Assembled laser](photos/assembled_laser.jpg)
 
