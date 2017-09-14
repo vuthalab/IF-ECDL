@@ -15,9 +15,11 @@ This is a design for an interference-filter-based external cavity diode laser. I
 2. Line up the half-wave plate (HWP) and polarizing beamsplitter (PBS) in front of the diode. Adjust the anamorphic prisms on the output port of the PBS to obtain as circular a beam as possible. Put in an isolator downstream.
 ![Mount, HWP](photos/mount_hwp_beamsplitter_prisms.jpg)
 
-3. Assemble the cateye retroreflector (CRR) using the parts listed. Put the interference filter (IF), a fold mirror and the CRR on the feedback port of the PBS. Adjust the angle of the IF to maximize the transmission through it, then adjust the fold mirror and CRR until the threshold current of the diode drops significantly. Adjust the HWP angle to change the fraction of the laser's output that is sent into the feedback arm.
+3. Assemble the cateye retroreflector (CRR) using the parts listed. It can be helpful to build a small interferometer in order to optimize the focus of the lens on the CRR.
+
+4. Put the interference filter (IF), a fold mirror and the CRR on the feedback port of the PBS. Adjust the angle of the IF to maximize the transmission through it, then adjust the fold mirror and CRR until the threshold current of the diode drops significantly. Adjust the HWP angle to change the fraction of the laser's output that is sent into the feedback arm.
 ![Retroreflector](photos/cateye_retroreflector.png)
 
-4. (Optional) Put pads of sorbothane underneath the breadboard. Add foam padding around the box for acoustic isolation.
+5. (Optional) Put pads of sorbothane underneath the breadboard. Add foam padding around the box for acoustic isolation.
 ![Assembled laser](photos/assembled_laser.jpg)
 
