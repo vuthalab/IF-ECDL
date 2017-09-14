@@ -10,7 +10,7 @@ This is a design for an interference-filter-based external cavity diode laser. I
 
 0. Drill holes in the box for feeding through the current controller, temperature controller and piezo driver.
 
-1. Put the diode in a collimation tube, power it up and collimate it. Slide the diode + collimation tube into the diode mount, and tighten it using 4-40 nylon screws.
+1. Glue a thermistor into the diode mount using a thermally conductive epoxy. Place a TEC between the two pieces of the diode mount. Put the diode in a collimation tube, power it up and collimate it. Slide the diode + collimation tube into the diode mount, and tighten it using 4-40 nylon screws.
 
 2. Line up the half-wave plate (HWP) and polarizing beamsplitter (PBS) in front of the diode. Adjust the anamorphic prisms on the output port of the PBS to obtain as circular a beam as possible. Put in an isolator downstream.
 ![Mount, HWP](photos/mount_hwp_beamsplitter_prisms.jpg)
